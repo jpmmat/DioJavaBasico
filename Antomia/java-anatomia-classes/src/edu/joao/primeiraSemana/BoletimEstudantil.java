@@ -1,5 +1,4 @@
-import javax.sound.midi.Soundbank;
-
+package edu.joao.primeiraSemana;
 public class BoletimEstudantil{
 
     public static void main(String[] args) {
@@ -12,3 +11,4 @@ public class BoletimEstudantil{
             System.out.println("APROVADO");
     }
 }
+
